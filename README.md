@@ -1,0 +1,2 @@
+# CPP-Assignment-5
+In this assignment, a Templated Linked List with various operations was created and used to simulate a train passing through a user defined number of stops. The train is organized such that passenger cars, labeled as 'P', are in the front, cargo cars ('C') are in the middle, and miscellaneous cars ('M') are in the back. Each traincar also displays its ID number and how many stops it has left before it is removed from the train.
