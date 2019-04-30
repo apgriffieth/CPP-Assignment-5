@@ -1,5 +1,5 @@
 #include <cstdlib>
-#include "TemplatedLinkedList.h"
+#include "Griffieth_List.h"
 
 
 class TrainCar {
